@@ -1,4 +1,4 @@
-# Brake-by-Wire Failure Mode Prediction using Machine Learning
+# Brake-by-Wire Failure Mode Prediction using Machine Learning Model
 
 This project involves the simulation, preprocessing, and modeling of sensor data in a **Brake-by-Wire (BBW)** system to predict key failure indicators. Using synthetic data and a suite of regression models, we estimate values representing **Severity (S)**, **Occurrence (O)**, and **Detection (D)** — core elements of a Failure Mode and Effects Analysis (FMEA) framework.
 
